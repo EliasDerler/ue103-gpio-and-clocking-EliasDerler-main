@@ -18,7 +18,7 @@ out PIND,R16
 call delay
 
 jmp loop
-//dadasdada
+//dadasdadakojj
 
 
 delay:
